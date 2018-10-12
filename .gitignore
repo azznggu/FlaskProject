@@ -329,3 +329,4 @@ ASALocalRun/
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
 /FlaskWebProject/FlaskWebProject/env
+/FlaskWebProject/FlaskRestTest/env
